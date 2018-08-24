@@ -7,3 +7,4 @@ Repo for AcloudGuru course work.
 ###Features
 - List-Bucket
 - List-Bucket-Objects
+- Create and setup s3 Bucket
